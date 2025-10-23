@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    color: rgba(177, 120, 5, 0.979);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+h1{
+color: blue;
+font: size 40px; 
+}
+p{
+    font-size: 25px;
+
+}
+header{
+border-bottom: crimson;
+margin:2px;
+padding: 10px;
+color: black;
+}
